@@ -14,7 +14,7 @@ A simple chatbot application built with Streamlit, LangGraph, and LangChain inte
 
 🛠️ Modular chatbot class for easy extension and tool binding.
 
-Demo Video : https://drive.google.com/file/d/1gexm3lLu8EHUFbFZGOkimyuJZFio1vX7/view?usp=sharing
+Demo Video : https://www.loom.com/share/039acdf2e362406bb02598219096bee5?sid=609ae08e-1090-4fa5-a64d-b5501266c6fc
 🛠️ Installation
 1. Clone the Repository
 git clone https://github.com/your-username/langgraph-chatbot.git
