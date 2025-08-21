@@ -18,6 +18,7 @@ Tavily Search API, which fetches live search results from the web.
 
 And finally, Streamlit, which I used to build a simple user interface.”
 
+
 3. Workflow Explanation (1 min)
 
 📊 Show a diagram or explain while pointing at code:
