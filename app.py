@@ -1,5 +1,4 @@
 import streamlit as st
-from transformers import pipeline
 from bot import chatbot
 
 mybot=chatbot()
